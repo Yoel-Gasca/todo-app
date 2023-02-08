@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
 <a href="https://yoel-gasca.github.io/todo-app/">Click here to app</a><br>
+![Captura de pantalla (97)](https://user-images.githubusercontent.com/83617933/217433706-c1261817-5f99-49fc-be5d-ff35b39b29aa.png)
 
+
+# React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
