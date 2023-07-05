@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-<a href="https://yoel-gasca.github.io/todo-app/">Click here to app</a><br>
+<h3><a href="https://yoel-gasca.github.io/todo-app/">Abre la lista de tareas</a></h3><br>
+
 ![Captura de pantalla (97)](https://user-images.githubusercontent.com/83617933/217433706-c1261817-5f99-49fc-be5d-ff35b39b29aa.png)
 
 
